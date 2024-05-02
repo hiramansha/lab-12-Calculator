@@ -4,4 +4,6 @@ Subtraction
 subtraction<<2-3<<endl;
 Multiplication
 multipliction<<2*3<<endl;
+Division
+division<<2/3<<endl;
 
