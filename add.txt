@@ -1,3 +1,5 @@
-Addition Branch
+Addition
 addition<<2+3<<endl;
-addition<<3+4<<endl;
+Subtraction
+subtraction<<2-3<<endl;
+
